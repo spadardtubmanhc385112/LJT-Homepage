@@ -9,56 +9,50 @@ redirect_from:
 
 {% include base_path %}
 
+Personal Details
+======
+* **Name**: Junteng Liu
+* **Position**: First-year PhD candidate at HKUST NLP Group, Hong Kong University of Science and Technology (HKUST)
+* **PhD Supervisor**: Professor Junxian He (leads HKUST NLP Group; previously advised Junteng Liu during undergraduate studies at Shanghai Jiao Tong University)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Computer Science (2024-Present)** — Hong Kong University of Science and Technology (HKUST), HKUST NLP Group
+* **B.Eng. (2020-2024)** — Shanghai Jiao Tong University (SJTU), graduated in June 2024
 
-Work experience
+Honors and Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Zhiyuan Honor Scholarship** — Awarded by Shanghai Jiao Tong University (SJTU)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Experience
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **February 2025 - Present**: Research Intern at MINIMAX (AI/technology company)
+* **June 2024 - September 2024**: Research Intern at Tencent WXG (Division of Tencent technology company); Advisor: Zifei Shan
+* **June 2023 - December 2023**: Research Intern at Shanghai AI Lab (AI research laboratory); Advisor: Prof. Yu Cheng
+
+Skills and Research Interests
+======
+* **Research Focus**: Natural Language Processing (NLP), Machine Learning (ML)
+* **Specific Research Interests**:
+  * LLM Reasoning and Reinforcement Learning
+  * Hallucination in Vision-Language Models (VLM)
+  * LLM Truthfulness and Interpretability
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+* **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025, *Arxiv*) — **Junteng Liu** (First author), Yuanxiang Fan, Zhuo Jiang, Han Ding, Yongyi Hu, Chi Zhang, Yiqi Shi, Shitong Weng, Aili Chen, Shiqi Chen, Yunan Huang, Mozhi Zhang, Pengyu Zhao, Junjie Yan, Junxian He (GitHub code repository)
+* **On the Perception Bottleneck of VLMs for Chart Understanding** (2025, *Arxiv*) — **Junteng Liu** (First author), Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He (GitHub code repository: Vision4Chart)
+* **On the Universal Truthfulness Hyperplane Inside LLMs** (2024, *EMNLP 2024 - Conference on Empirical Methods in Natural Language Processing*) — **Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He (GitHub code repository: Universal_Truthfulness_Hyperplane)
+* **In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation** (2024, *ICML 2024 - International Conference on Machine Learning*) — Shiqi Chen, Miao Xiong, **Junteng Liu**, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He
+* **C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models** (2023, *NeurIPS 2023 - Neural Information Processing Systems*) — Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, **Junteng Liu**, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He
+* **Composing Parameter-Efficient Modules with Arithmetic Operations** (2023, *NeurIPS 2023 - Neural Information Processing Systems*) — Jinghan Zhang, Shiqi Chen, **Junteng Liu**, Junxian He
+
+Contact Information
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Email**: [jliugi@connect.ust.hk](mailto:jliugi@connect.ust.hk)
+* **GitHub**: [Vicent0205](https://github.com/Vicent0205)
+* **Google Scholar**: [https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate)
+* **X (Twitter)**: [@junteng88716710](https://twitter.com/junteng88716710)
