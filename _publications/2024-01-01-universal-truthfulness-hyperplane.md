@@ -12,4 +12,4 @@ citation: '**Junteng Liu**, Shiqi Chen, Yu Cheng, Junxian He. (2024). "On the Un
 - **Title**: On the Universal Truthfulness Hyperplane Inside LLMs
 - **Authors**: **Junteng Liu** (First author), Shiqi Chen, Yu Cheng, Junxian He
 - **Venue**: EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing)
-- **Code Repository**: GitHub code repository: Universal_Truthfulness_Hyperplane (https://github.com/Vicent0205)
+- **Code Repository**: Has GitHub code repository: Universal_Truthfulness_Hyperplane
